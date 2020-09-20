@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and 
 ![Schmidt:"Let us rejoice in song!"]
-(https://media.giphy.com/media/NhnKiVH590h2g/giphy.gif)
+(http://gph.is/1b92z5l)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
