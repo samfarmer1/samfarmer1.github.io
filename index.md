@@ -1,31 +1,15 @@
 ## Welcome Samantha's Page!
 
-You can use the [editor on GitHub](https://github.com/samfarmer1/samfarmer1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Favorite Hobbies:
 
-# Header 1
-## Header 2
-### Header 3
+- Tennis
+- Movies
+- Traveling
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
-![Schmidt:"Let us rejoice in song!"]
-(https://static.vecteezy.com/system/resources/thumbnails/000/224/242/small/hello-retro-typography.jpg)
+**Wish I could get other pictures to work!**
+![Hello"](https://static.vecteezy.com/system/resources/thumbnails/000/224/242/small/hello-retro-typography.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
