@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Samantha's Page!
 
 You can use the [editor on GitHub](https://github.com/samfarmer1/samfarmer1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
