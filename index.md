@@ -9,7 +9,7 @@
 - Traveling
 
 **Wish I could get other pictures to work!**
-![Hello"](https://static.vecteezy.com/system/resources/thumbnails/000/224/242/small/hello-retro-typography.jpg)
+![Hello](https://static.vecteezy.com/system/resources/thumbnails/000/224/242/small/hello-retro-typography.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
